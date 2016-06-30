@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class Activator : MonoBehaviour
+public class Activator_del : MonoBehaviour
 {
     [SerializeField]
     private Quest quest = null;
